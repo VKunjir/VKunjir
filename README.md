@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://vkunjir.github.io/Viraj_Portofolio/) -->
 <h1 align="center">Hi 👋, I'm Viraj Kunjir</h1>
-<h3 align="center">A passionate MERN Stack developer & ML Enthusiast from India</h3>
+<h3 align="center">"I'm a passionate MERN Stack developer and ML enthusiast from India, actively engaged in solving DSA problems."</h3>
 <img align="right" alt="Coding" with="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkunjir&label=Profile%20views&color=0e75b6&style=flat" alt="vkunjir" /> </p>
